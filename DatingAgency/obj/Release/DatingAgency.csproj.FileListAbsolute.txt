@@ -1,0 +1,11 @@
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\WinForms\DatingAgency\DatingAgency\bin\Release\DatingAgency.exe.config
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\WinForms\DatingAgency\DatingAgency\bin\Release\DatingAgency.exe
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\WinForms\DatingAgency\DatingAgency\bin\Release\DatingAgency.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\WinForms\DatingAgency\DatingAgency\obj\Release\DatingAgency.Form1.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\WinForms\DatingAgency\DatingAgency\obj\Release\DatingAgency.Form2.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\WinForms\DatingAgency\DatingAgency\obj\Release\DatingAgency.Properties.Resources.resources
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\WinForms\DatingAgency\DatingAgency\obj\Release\DatingAgency.csproj.GenerateResource.Cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\WinForms\DatingAgency\DatingAgency\obj\Release\DatingAgency.exe
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\WinForms\DatingAgency\DatingAgency\obj\Release\DatingAgency.pdb
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\WinForms\DatingAgency\DatingAgency\obj\Release\DatingAgency.csprojResolveAssemblyReference.cache
+C:\Users\Павел\Documents\Visual Studio 2013\Projects\WinForms\DatingAgency\DatingAgency\obj\Release\DatingAgency.Resource1.resources
